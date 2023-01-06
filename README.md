@@ -31,6 +31,8 @@ Find here below a simple schematic.
 
 ![sch2](images/sch2.jpg)
 
+![device1](images/device1.jpg)
+
 
 ## Firmware
 
