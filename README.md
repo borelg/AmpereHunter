@@ -27,9 +27,9 @@ Then E+ and E- are conneted to each side of the shunt resistor via two 10Mohm re
 
 Find here below a simple schematic.
 
-![sch1](images/sch1.png)
+![sch1](images/sch1.jpg)
 
-![sch2](images/sch2.png)
+![sch2](images/sch2.jpg)
 
 
 ## Firmware
@@ -48,9 +48,12 @@ Since a separate power supply is needed, I have added a TCP client to stream dat
 ## Results
 
 Here below some early result of measurement from the system.
-	
-![pic1](images/avg_readingsVScurrent.png)
 
 ![pic2](images/calib_curve.png)
+
+![pic1](images/avg_readingsVScurrent.png)
+
+
+
 
 
